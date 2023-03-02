@@ -63,8 +63,7 @@ border-bottom-color:black;
     font-size: 6vw;
 }
 .contenu header {
-    line-height: 50px;
-    color: darkgreen;
+    color: blueviolet;
 }
 
 @media screen and (max-widht: 700px) {
